@@ -8,7 +8,7 @@ For the most part, I use Python, but I'm also looking into learing one or two co
 
 * 🌍  I'm based in Oslo, Norway 🇳🇴
 * 🧠  I'm learning Go, but I'm a total beginner at this stage 🍼
-* ⚡  I fed a giraffe once
+* ⚡  I once fed a giraffe
 
 ### Skills
 
