@@ -1,7 +1,7 @@
 Hi 👋 My name is Magnus Kvåle Helliesen
 =================================
 
-Data Scientist
+Data Scientist 💼
 --------------
 
 * 🌍  I'm based in Oslo
