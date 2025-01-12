@@ -7,7 +7,8 @@ I've been learing coding for 10+ years, through work, hobbies and some courses.
 For the most part, I use Python, but I'm also looking into learing one or two compiled languages—Go and maybe Rust (though I've read that the latter is quite difficult).
 
 * 🌍  I'm based in Oslo, Norway 🇳🇴
-* 🧠  I'm learning Go (total beginner at this stage 👶)
+* 🧠  I'm learning Go, but I'm a total beginner at this stage 🍼
+* ⚡  I fed a giraffe once
 
 ### Skills
 
