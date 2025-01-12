@@ -1,7 +1,7 @@
 Hi 👋 My name is Magnus Helliesen
 =================================
 
-Data Scientist 💼
+Data Scientist
 --------------
 
 I've been learing coding for 10+ years, through work, my own projects and some courses.
