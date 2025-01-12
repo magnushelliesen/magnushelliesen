@@ -5,7 +5,7 @@ Data Scientist 💼
 --------------
 I've been learing coding for 10+ years, through work, hobbies and some courses. For the most part, I use Python, but I'm looking into learing one or two compiled languages too, Go and maybe Rust (though I've read that the latter is quite difficult).
 
-* 🌍  I'm based in Oslo
+* 🌍  I'm based in Oslo, Norway 🇳🇴
 * 🧠  I'm learning Go (total beginner at this stage 👶)
 
 ### Skills
