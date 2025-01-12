@@ -1,4 +1,4 @@
-Hi 👋 My name is Magnus Helliesen
+Hi 👋 I'm Magnus
 =================================
 
 Data Scientist
