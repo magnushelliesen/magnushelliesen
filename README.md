@@ -5,7 +5,7 @@ Data Scientist
 --------------
 
 * 🌍  I'm based in Oslo
-* 🧠  I'm learning Go
+* 🧠  I'm learning Go (total beginner at this stage)
 
 ### Skills
 
