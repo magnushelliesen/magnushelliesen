@@ -27,4 +27,4 @@ For the most part, I use Python, but I'm also looking into learing one or two co
 
 <a href="http://www.github.com/magnushelliesen"><img src="https://github-readme-stats.vercel.app/api?username=magnushelliesen&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=facc15&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="magnushelliesen's GitHub stats" /></a>
 
-<a href="https://github.com/magnushelliesen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnushelliesen&langs_count=10&title_color=3382ed&text_color=facc15&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=jupyter%20notebook" alt="Top Languages" /></a>
+<a href="https://github.com/magnushelliesen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnushelliesen&langs_count=10&title_color=3382ed&text_color=facc15&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20languages%20excluding%20Jupyter%20Notebooks&hide=jupyter%20notebook&card_width=500" alt="Top Languages" /></a>
