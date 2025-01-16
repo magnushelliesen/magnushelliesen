@@ -4,6 +4,7 @@ Hi 👋 I'm Magnus
 Data Scientist
 --------------
 
+Welcome to my private GitHub account.
 I've been learing coding for 10+ years, through work, my own projects and some courses.
 For the most part, I use Python, but I'm also looking into learing one or two compiled languages—Go and maybe Rust (though, from what I've read, the latter is quite difficult, so we'll see).
 
@@ -11,7 +12,7 @@ For the most part, I use Python, but I'm also looking into learing one or two co
 * 🧠  I'm learning Go, but I'm a complete beginner at this stage 🍼
 * ⚡  I once fed a giraffe
 
-_P.S. Everything on my private GitHub is developed in my own time. Everything I do at work is commited to repo's belonging to organizational accounts, some are open but most are private._
+_P.S. Everything on my private GitHub is developed in my own time. Everything I do at work is commited to repo's belonging to that organization's account, some of which are open but most are private._
 
 ### Skills
 
