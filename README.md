@@ -1,9 +1,6 @@
 Hi 👋 I'm Magnus
 =================================
 
-Data Scientist
---------------
-
 Welcome to my private GitHub account!
 I've been learing coding since around 2010, through work, my own projects, and a few courses.
 For the most part, I use Python, but I'm also looking into learing one or two compiled languages—Go and maybe Rust (though, from what I've read, the latter is quite difficult, so we'll see).
