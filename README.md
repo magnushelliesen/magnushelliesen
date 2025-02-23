@@ -18,7 +18,7 @@ _P.S. Everything here on my private GitHub is developed in my own time. Everythi
 
 ### Projects
 - [Streamlit app](https://github.com/magnushelliesen/handwritten-digit-recognizer-app) that uses home written neural network to recognize handwritten digits on the fly
-- [Neural network](https://github.com/magnushelliesen/neural-network) written from scratch, using linear algebra functionality from Numpy (this repo is set up with unit tests automated using GitHub actions)
+- [Neural network](https://github.com/magnushelliesen/neural-network) written from scratch, using linear algebra functionality from Numpy (GitHub actions running unit tests)
 - [N-body simulator](https://github.com/magnushelliesen/n-body-simulator) that allows for simulating Newtonian gravity, at least approximately
 
 ### Socials
