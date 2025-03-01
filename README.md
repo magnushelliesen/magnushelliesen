@@ -3,7 +3,7 @@ Hi 👋 I'm Magnus
 
 Welcome to my private GitHub account!
 I've been learing coding since around 2010, through work, my own projects, and a few courses.
-For the most part, I use Python, but I'm also looking into learing one or two compiled languages—Go, C++ or maybe Rust.
+For the most part, I use Python, but I'm also looking into learing one or two compiled languages—Go, C++, or maybe Rust.
 
 * 🌍  I'm based in Oslo, Norway ⛰️🇳🇴
 * 🧠  I'm learning Go and C++, but I'm a complete beginner at this stage 👶🍼
@@ -13,7 +13,7 @@ _P.S. Everything here on my private GitHub is developed in my own time. Everythi
 
 ### 🚀 Projects
 - [Streamlit app](https://github.com/magnushelliesen/handwritten-digit-recognizer-app) that uses a pre-trained, home written neural network to recognize handwritten digits on the fly
-- [Neural network](https://github.com/magnushelliesen/neural-network) written from scratch, using linear algebra functionality from Numpy (GitHub actions run unit tests on PR)
+- [Neural network](https://github.com/magnushelliesen/neural-network) written from scratch, using linear algebra-functionality from Numpy (GitHub actions run unit tests on PR)
 - [N-body simulator](https://github.com/magnushelliesen/n-body-simulator) that allows for simulating Newtonian gravity, at least approximately
 - [Monte Carlo-simulator](https://github.com/magnushelliesen/monte-carlo-simulator) that allows for joint simulation of time series that co-vary
 
