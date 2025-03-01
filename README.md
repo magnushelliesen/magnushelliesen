@@ -11,8 +11,13 @@ For the most part, I use Python, but I'm also looking into learing one or two co
 
 _P.S. Everything here on my private GitHub is developed in my own time. Everything I do at work is commited to repos belonging to that organization's account—some of which are public, but most of which are private._
 
+### 🚀 Projects
+- [Streamlit app](https://github.com/magnushelliesen/handwritten-digit-recognizer-app) that uses a pre-trained, home written neural network to recognize handwritten digits on the fly
+- [Neural network](https://github.com/magnushelliesen/neural-network) written from scratch, using linear algebra functionality from Numpy (GitHub actions run unit tests on PR)
+- [N-body simulator](https://github.com/magnushelliesen/n-body-simulator) that allows for simulating Newtonian gravity, at least approximately
+
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/magge1984) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/magnus-helliesen) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/magge1984) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/magnus-helliesen)
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
