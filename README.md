@@ -49,6 +49,8 @@ _P.S. Everything here on my private GitHub is developed in my own time. Everythi
 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
+	<code><img width="35" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" title="Streamlit"/></code>
+ 
 </div>
 
 ### 📊 GitHub Stats:
