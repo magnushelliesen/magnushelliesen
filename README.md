@@ -25,7 +25,7 @@ _P.S. Everything published here, on my private GitHub, is developed **in my own 
 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="35" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="Github Actions" title="Github Actions"/></code>
+	<code><img width="35" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" title="GitHub Actions"/></code>
 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" title="Vim"/></code>
 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/></code>
