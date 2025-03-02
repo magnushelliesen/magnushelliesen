@@ -1,7 +1,7 @@
 Hi 👋 I'm Magnus
 =================================
 
-Welcome to my private GitHub account!
+Welcome to my private GitHub account!\
 I've been learing coding since around 2010, through work, my own projects, and a few courses.
 For the most part, I use Python, but I'm also looking into learing one or two compiled languages—Go, C++, or maybe Rust.
 
