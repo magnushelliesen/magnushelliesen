@@ -35,6 +35,7 @@ _P.S. Everything published here, on my private GitHub, is developed **in my own 
 	<code><a href="https://docs.pytest.org/en/7.1.x/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" alt="pytest" title="pytest"/></a></code>
 	<code><a href="https://numpy.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></a></code>
 	<code><a href="https://pandas.pydata.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></a></code>
+	<code><a href="https://pola.rs/"><img width="35" src="https://avatars.githubusercontent.com/u/83768144?s=200&v=4" alt="Polars" title="Polars"/></a></code>
 	<code><a href="https://streamlit.io/"><img width="35" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" title="Streamlit"/></a></code>
 	<code><a href="https://www.rust-lang.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></a></code>
 	<code><a href="https://golang.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></a></code>
