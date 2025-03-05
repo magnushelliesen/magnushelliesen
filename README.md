@@ -3,7 +3,7 @@ Hi 👋 I'm Magnus
 
 Welcome to my private GitHub account!\
 I've been learing coding since around 2010, through work, my own projects, and a few courses.
-For the most part, I use Python, but I'm also looking into learing one or two compiled languages—Go, C++, or maybe Rust (I'm aware the latter two are known to be difficult, so we'll see 😇).
+For the most part, I use Python, but I'm also looking into learing one or two compiled languages—Go, C++, or maybe Rust (though I'm aware the latter two are known to be difficult, so we'll see 😇).
 
 * 🌍  I'm based in Oslo, Norway ⛰️🇳🇴
 * 🧠  I'm learning Go and C++, but I'm a _complete beginner_ at this stage 👶🍼
