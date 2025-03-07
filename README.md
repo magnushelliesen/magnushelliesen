@@ -39,7 +39,7 @@ _P.S. Everything published here, on my private GitHub, is developed **in my own 
 	<code><a href="https://streamlit.io/"><img width="35" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" title="Streamlit"/></a></code>
 	<code><a href="https://www.rust-lang.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></a></code>
 	<code><a href="https://golang.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></a></code>
-	<code><a href="https://www.mongodb.com/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></a></code>
+	<code><a href="http://www.duckdb.org/"><img width="35" src="https://avatars.githubusercontent.com/u/82039556?s=48&v=4" alt="DuckDB" title="DuckDB"/></a></code>
 	<code><a href="https://www.gnu.org/software/bash/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></a></code>
 	<code><a href="https://www.docker.com/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></a></code>
 	<code><a href="https://en.wikipedia.org/wiki/CI/CD"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></a></code>
