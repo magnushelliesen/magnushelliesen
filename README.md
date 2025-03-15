@@ -53,6 +53,8 @@ _P.S. Everything published here, on my private GitHub, is developed **in my own 
 	<code><a href="https://www.microsoft.com/en-us/windows"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></a></code>
 	<code><a href="https://www.linux.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></a></code>
 	<code><a href="https://ubuntu.com/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></a></code>
+	<code><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img width="35" src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" alt="Power BI" title="Power BI"/></a></code>
+
 </div>
 
 ### 📊 GitHub Stats:
