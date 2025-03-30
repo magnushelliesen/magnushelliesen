@@ -9,7 +9,7 @@ For the most part, I use Python, but I'm also looking into learing one or two co
 * 🧠  I'm learning Go and C++, but I'm a _complete beginner_ at this stage 👶🍼
 * ⚡  I once hand-fed a giraffe—a wild one, that was _not_ in captivity 🫴🦒
 
-_P.S. Everything published here, on my private GitHub, is developed **in my own time**. Everything I do at work is commited to repos belonging to that organization's account—some of which are public, but most of which are private._
+_P.S. Everything published here, on my private GitHub, is developed_ **in my own time**. _Everything I do at work is commited to repos belonging to that organization's account—some of which are public, but most of which are private._
 
 ### 🚀 Projects
 - [Streamlit app](https://github.com/magnushelliesen/handwritten-digit-recognizer-app) that uses a pre-trained, home written neural network to recognize handwritten digits on the fly
