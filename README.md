@@ -61,11 +61,11 @@ _P.S. Everything published here, on my private GitHub, is developed_ **in my own
 </div>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=magnushelliesen&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--  ![](https://github-readme-stats.vercel.app/api?username=magnushelliesen&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=magnushelliesen&theme=transparent&hide_border=false)<br/>
-<a href="https://github.com/magnushelliesen" align="left">
+<!-- <a href="https://github.com/magnushelliesen" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnushelliesen&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
 </a>\
-⚠️ _Most Used Languages are excluding `.ipynb`-files_
+⚠️ _Most Used Languages are excluding `.ipynb`-files_ -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
