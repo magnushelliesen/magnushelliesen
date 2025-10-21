@@ -40,6 +40,9 @@ _P.S. Everything published here, on my private GitHub, is developed_ **in my own
 	<code><a href="https://matplotlib.org/"><img width="35" src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" alt="Matplotlib" title="Matplotlib"/></a></code>
 	<code><a href="https://scipy.org/"><img width="35" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy" title="SciPy"/></a></code>
  	<code><a href="https://scikit-learn.org/stable/"><img width="35" src="https://avatars.githubusercontent.com/u/17349883?s=200&v=4" alt="scikit-learn" title="scikit-learn"/></a></code>
+	<code><a href="https://docs.pydantic.dev/latest/"><img width="35" src="https://logo.svgcdn.com/s/pydantic-dark.png" alt="Pydantic" title="Pydantic"/></a></code>
+	<code><a href="https://docs.pydantic.dev/latest/concepts/ai_integration/"><img width="35" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/pydanticai-color.png" alt="Pydantic AI" title="Pydantic AI"/></a></code>
+	<code><a href="https://www.langchain.com/"><img width="35" src="https://logo.svgcdn.com/s/langchain-dark.png" alt="LangChain" title="LangChain"/></a></code>
 	<code><a href="https://www.rust-lang.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></a></code>
 	<code><a href="https://golang.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></a></code>
 	<code><a href="http://www.duckdb.org/"><img width="35" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/duckdb-umoj5fxu8w5pzg7d0js9.png/duckdb-kz05ottxukbgvmp8c3bpi.png?_a=DAJFJtWIZAAC" alt="DuckDB" title="DuckDB"/></a></code>
@@ -57,7 +60,6 @@ _P.S. Everything published here, on my private GitHub, is developed_ **in my own
 	<code><a href="https://www.linux.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></a></code>
 	<code><a href="https://ubuntu.com/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></a></code>
 	<code><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img width="35" src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" alt="Power BI" title="Power BI"/></a></code>
-
 </div>
 
 ### 📊 GitHub Stats:
