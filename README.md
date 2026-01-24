@@ -3,11 +3,11 @@ Hi 👋 I'm Magnus
 
 Welcome to my private GitHub account!\
 I've been learing coding since around 2010, through work, my own projects, and a few courses.
-For the most part, I use Python, but I'm also looking into learing one or two compiled languages—Go, C++, or maybe Rust (though I'm aware the latter two are known to be difficult, so we'll see 😇).
+For the most part, I use Python, but I'm also looking into learing one or two compiled languages. To that end, I'm looking into Go(lang) and Rust (though I'm aware the latter is known to be difficult, with the borrow cheker and all, so we'll see 😇).
 
 * 🌍  I'm based in Oslo, Norway ⛰️🇳🇴
-* 🧠  I'm learning Rust and Go, but I'm a _complete beginner_ at this stage 👶🍼
-* ⚡  I once hand-fed a giraffe—a wild one, that was _not_ in captivity 🫴🦒
+* 🧠  I'm learning Go and Rust, but I'm a _complete beginner_ at this stage 👶🍼
+* ⚡  I once hand-fed a giraffe—a wild one that could roam freely as it saw fit, that was _not_ in captivity 🫴🦒
 
 _P.S. Everything published here, on my private GitHub, is developed_ **in my own time**. _Everything I do at work is commited to repos belonging to that organization's account—some of which are public, but most of which are private._
 
