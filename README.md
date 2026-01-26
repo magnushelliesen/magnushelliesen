@@ -8,7 +8,7 @@ For the most part, I use Python, but I'm also looking into learing one or two co
 
 * 🌍  I'm based in Oslo, Norway ⛰️🇳🇴
 * 🧠  I'm learning Go and Rust, but I'm a _complete beginner_ at this stage 👶🍼
-* ⚡  I once hand-fed a giraffe—a wild one that could roam freely as it saw fit, that was _not_ in captivity 🫴🦒
+* ⚡  I once hand-fed a giraffe—a wild one, that could roam freely, that was _not_ in captivity 🫴🦒
 
 _P.S. Everything published here, on my private GitHub, is developed_ **in my own time**. _Everything I do at work is commited to repos belonging to that organization's account—some of which are public, but most of which are private._
 
