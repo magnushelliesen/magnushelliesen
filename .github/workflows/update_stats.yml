@@ -33,3 +33,4 @@ jobs:
           plugin_languages_threshold: 2%
 
           plugin_languages_ignored: jupyter notebook
+          plugin_files_ignored: "*.ipynb"
