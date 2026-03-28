@@ -16,6 +16,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
           user: magnushelliesen
+          target_user: magnushelliesen
+          include_private: true
 
           filename: stats/metrics.svg
 
@@ -30,5 +32,4 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
 
-          # 👇 EXCLUDE Jupyter notebooks
           plugin_languages_ignored: jupyter notebook
