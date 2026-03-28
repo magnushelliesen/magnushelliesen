@@ -10,36 +10,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: magnushelliesen
-          filename: metrics.svg                 # midlertidig navn
-          output_action: none                  # IKKE commit automatisk
+
+          # ✅ Save directly where you want it
+          filename: stats/metrics.svg
+
+          # ✅ Let the action handle commits automatically
           config_timezone: Europe/Oslo
           template: classic
 
           base: header, repositories, activity
+
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
-
-      - name: Move metrics output
-        run: |
-          mkdir -p stats
-          # metrics lagrer alltid til ./metrics_renders/
-          mv metrics_renders/metrics.svg stats/metrics.svg
-
-      - name: Commit and push
-        run: |
-          git add stats/metrics.svg
-          git diff --cached --quiet || \
-            (git -c user.name="github-actions[bot]" \
-                 -c user.email="github-actions[bot]@users.noreply.github.com" \
-                 commit -m "Update metrics" && git push)
