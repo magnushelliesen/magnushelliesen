@@ -12,7 +12,7 @@ For the most part, I use Python, but I'm also looking into learing one or two co
 
 
 > [!NOTE]  
-> Everything published in repos on my private GitHub account is developed _**in my own time**_. Everything I do at work is commited to repos belonging to that organization's account—some of which are public, but most of which are private.
+> Everything committed to repos on my private GitHub account is developed _**in my own time**_. Everything I do at work is commited to repos belonging to that organization's account—some of which are public, but most of which are private.
 
 ### 🚀 Projects:
 - [Streamlit app](https://github.com/magnushelliesen/handwritten-digit-recognizer-app) that uses a pre-trained, home written neural network to recognize handwritten digits on the fly
