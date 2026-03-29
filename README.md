@@ -63,9 +63,10 @@ _P.S. Everything published here, on my private GitHub, is developed_ **in my own
 	<code><a href="https://isocpp.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></a></code>
 </div>
 
-### 📈 GitHub Stats (only private projects):
+### 📈 GitHub Stats (private projects):
 <p align="left">
   <img src="./profile/stats.svg" height="165"/>
   <img src="./profile/top-langs.svg" height="165"/>
 </p>
-ℹ️ _Excluding `.ipynb` files._
+
+_Excluding_ `.ipynb` _files._
