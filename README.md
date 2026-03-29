@@ -70,4 +70,4 @@ _P.S. Everything published here, on my private GitHub, is developed_ **in my own
 </p>
 
 > [!NOTE]  
->  Most Used Languages excludes `.ipynb` files.
+>  Most Used Languages excludes `.ipynb` files, because they contain text, results and metadata, in addition to code.
