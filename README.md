@@ -64,4 +64,7 @@ _P.S. Everything published here, on my private GitHub, is developed_ **in my own
 </div>
 
 ### 📈 GitHub Stats:
-![Stats](./profile/stats.svg)
+<p align="left">
+  <img src="./profile/stats.svg" height="165"/>
+  <img src="./profile/top-langs.svg" height="165"/>
+</p>
