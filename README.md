@@ -63,7 +63,7 @@ _P.S. Everything published here, on my private GitHub, is developed_ **in my own
 	<code><a href="https://isocpp.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></a></code>
 </div>
 
-### 📈 GitHub Stats (private projects):
+### 📈 GitHub Stats (public repos):
 <p align="left">
   <img src="./profile/stats.svg" height="165"/>
   <img src="./profile/top-langs.svg" height="165"/>
