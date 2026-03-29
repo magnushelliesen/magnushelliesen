@@ -72,4 +72,4 @@ For the most part, I use Python, but I'm also looking into learing one or two co
 </p>
 
 > [!NOTE]  
->  Most Used Languages excludes `.ipynb` files, because they contain text, results and metadata, in addition to code, skewing the stats completely.
+>  _Most Used Languages_ excludes `.ipynb` files, because they contain text, results and metadata, in addition to code, skewing the stats completely.
