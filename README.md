@@ -69,4 +69,5 @@ _P.S. Everything published here, on my private GitHub, is developed_ **in my own
   <img src="./profile/top-langs.svg" height="165"/>
 </p>
 
-_Excluding_ `.ipynb` _files._
+> [!NOTE]  
+>  Most Used Languages excludes `.ipynb` files.
