@@ -68,4 +68,4 @@ _P.S. Everything published here, on my private GitHub, is developed_ **in my own
   <img src="./profile/stats.svg" height="165"/>
   <img src="./profile/top-langs.svg" height="165"/>
 </p>
-ℹ️ _Excluding `.ipynb` files.
+ℹ️ _Excluding `.ipynb` files._
