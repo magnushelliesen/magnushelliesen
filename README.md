@@ -12,7 +12,7 @@ For the most part, I use Python, but I'm also looking into learing one or two co
 
 _P.S. Everything published here, on my private GitHub, is developed_ **in my own time**. _Everything I do at work is commited to repos belonging to that organization's account—some of which are public, but most of which are private._
 
-### 🚀 Projects
+### 🚀 Projects:
 - [Streamlit app](https://github.com/magnushelliesen/handwritten-digit-recognizer-app) that uses a pre-trained, home written neural network to recognize handwritten digits on the fly
 - [Neural network](https://github.com/magnushelliesen/neural-network) written from scratch, using linear algebra-functionality from Numpy (GitHub actions run unit tests on PR)
 - [N-body simulator](https://github.com/magnushelliesen/n-body-simulator) that allows for simulating Newtonian gravity, at least approximately
@@ -62,3 +62,6 @@ _P.S. Everything published here, on my private GitHub, is developed_ **in my own
 	<code><a href="https://golang.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></a></code>
 	<code><a href="https://isocpp.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></a></code>
 </div>
+
+### 📈 GitHub Stats:
+![Stats](./profile/stats.svg)
