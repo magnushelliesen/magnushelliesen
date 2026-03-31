@@ -8,11 +8,11 @@ I mainly use Python, but I'm also looking into learing one or two compiled langu
 
 * 🌍 I'm based in Oslo, Norway ⛰️🇳🇴
 * 🧠 I'm learning Go and Rust, but I'm a _complete beginner_ at this stage 👶🍼
-* ⚡ I once hand-fed a giraffe—a wild one, that could roam freely 🫴🦒
+* ⚡ I once hand-fed a giraffe, a wild one, that could roam freely 🫴🦒
 
 
 > [!NOTE]  
-> Everything committed to repos on my private GitHub account is developed _**in my own time**_. Everything I do at work is committed to repos belonging to that organization's account—some of which are public, but most of which are private.
+> Everything committed to repos on my private GitHub account is developed _**in my own time**_. Everything I do at work is committed to repos belonging to that organization's account, some of which are public, but most of which are private.
 
 ### 🚀 Projects:
 - [Streamlit app](https://github.com/magnushelliesen/handwritten-digit-recognizer-app) that uses a pre-trained, home written neural network to recognize handwritten digits on the fly
