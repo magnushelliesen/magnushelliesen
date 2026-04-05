@@ -1,13 +1,13 @@
-Hi 👋 I'm Magnus
+Greetings 👋 I'm Magnus
 =================================
 
 Welcome to my private GitHub account!
 
-I've been learing coding since around 2010, through work, my own projects, and a few courses.
-I mainly use Python, but I'm also looking into learing one or two compiled languages. To that end, I'm exploring Go and Rust (though I'm aware the latter is known to be difficult, so we'll see 😇).
+I've been learing coding since around 2010, through work, my own projects, and some courses.
+I mostly use Python, but I'm also looking into learing one or two compiled languages. To that end, I'm exploring Rust and Go (though I'm aware the former is supposedly difficult, so we'll see 😇).
 
 * 🌍 I'm based in Oslo, Norway ⛰️🇳🇴
-* 🧠 I'm learning Go and Rust, but I'm a _complete beginner_ at this stage 👶🍼
+* 🧠 I'm learning Rust and Go, but I'm a _complete beginner_ at this stage 👶🍼
 * ⚡ I once hand-fed a giraffe, a wild one, that could roam freely 🫴🦒
 
 
@@ -15,8 +15,8 @@ I mainly use Python, but I'm also looking into learing one or two compiled langu
 > Everything committed to repos on my private GitHub account is developed _**in my own time**_. Everything I do at work is committed to repos belonging to that organization's account, some of which are public, but most of which are private.
 
 ### 🚀 Projects:
-- [Streamlit app](https://github.com/magnushelliesen/handwritten-digit-recognizer-app) that uses a pre-trained, home written neural network to recognize handwritten digits on the fly
-- [Neural network](https://github.com/magnushelliesen/neural-network) written from scratch, using linear algebra-functionality from Numpy (GitHub actions run unit tests on PR)
+- [Streamlit app](https://github.com/magnushelliesen/handwritten-digit-recognizer-app) that uses a pre-trained instance of a home written neural network to recognize handwritten digits on the fly. App is hosted on Google Cloud Run, and new releases are rolled out using GitHub Actions
+- [Neural network](https://github.com/magnushelliesen/neural-network) written from first principles, using linear algebra-functionality from Numpy (GitHub Actions run unit tests, Mypy and Black on PR)
 - [N-body simulator](https://github.com/magnushelliesen/n-body-simulator) that allows for simulating Newtonian gravity, at least approximately
 - [Monte Carlo-simulator](https://github.com/magnushelliesen/monte-carlo-simulator) that allows for joint simulation of time series that co-vary
 
@@ -65,11 +65,12 @@ I mainly use Python, but I'm also looking into learing one or two compiled langu
 	<code><a href="https://isocpp.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></a></code>
 </div>
 
-### 📊 GitHub Stats (only covers my own repos):
+### 📊 GitHub Stats:
 <p align="left">
   <img src="./profile/stats.svg" height="165"/>
   <img src="./profile/top-langs.svg" height="165"/>
 </p>
 
-> [!NOTE]  
->  _Most Used Languages_ excludes `.ipynb` files, because they contain text, results and metadata, in addition to code, skewing the stats completely.
+> [!NOTE]
+> 1. Stats cover only _my own_ repos. Stuff commited at work isn't counted
+> 2. _Most Used Languages_ stats exclude `.ipynb` files, because they contain text, results and metadata, in addition to actual code, skewing the stats completely
