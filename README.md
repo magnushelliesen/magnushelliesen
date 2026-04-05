@@ -65,7 +65,7 @@ I mainly use Python, but I'm also looking into learing one or two compiled langu
 	<code><a href="https://isocpp.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></a></code>
 </div>
 
-### 📊 GitHub Stats (public repos):
+### 📊 GitHub Stats (only covers my own repos):
 <p align="left">
   <img src="./profile/stats.svg" height="165"/>
   <img src="./profile/top-langs.svg" height="165"/>
