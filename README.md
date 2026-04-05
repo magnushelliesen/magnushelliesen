@@ -15,8 +15,8 @@ I mostly use Python, but I'm also looking into learing one or two compiled langu
 > Everything committed to repos on my private GitHub account is developed _**in my own time**_. Everything I do at work is committed to repos belonging to that organization's account, some of which are public, but most of which are private.
 
 ### 🚀 Projects:
-- [Streamlit app](https://github.com/magnushelliesen/handwritten-digit-recognizer-app) that uses a pre-trained instance of a home written neural network to recognize handwritten digits on the fly. The app is hosted on Google Cloud Run, and new releases are rolled out using GitHub Actions (GitHub Actions also run Mypy and Black on PR into main)
-- [Neural network](https://github.com/magnushelliesen/neural-network) written from first principles, using linear algebra-functionality from Numpy (GitHub Actions run unit tests, Mypy and Black on PR into main)
+- [Streamlit app](https://github.com/magnushelliesen/handwritten-digit-recognizer-app) that uses a pre-trained instance of a home written neural network to recognize handwritten digits on the fly
+- [Neural network](https://github.com/magnushelliesen/neural-network) written from first principles, using linear algebra-functionality from Numpy
 - [N-body simulator](https://github.com/magnushelliesen/n-body-simulator) that allows for simulating Newtonian gravity, at least approximately
 - [Monte Carlo-simulator](https://github.com/magnushelliesen/monte-carlo-simulator) that allows for joint simulation of time series that co-vary
 
