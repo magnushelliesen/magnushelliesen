@@ -72,5 +72,5 @@ I mostly use Python, but I'm also looking into learing one or two compiled langu
 </p>
 
 > [!NOTE]
-> 1. Stats cover only _my own_ repos, stuff commited at work isn't counted
+> 1. Stats cover my own repos only, stuff commited at work ain't counted
 > 2. _Most Used Languages_ stats exclude `.ipynb` files, because they contain text, results and metadata, in addition to actual code, skewing the stats completely
