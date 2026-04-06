@@ -19,7 +19,7 @@ I mostly use Python, but I'm also looking into learing one or two compiled langu
 - [Neural network](https://github.com/magnushelliesen/neural-network) written from first principles, using linear algebra-functionality from NumPy
 - [N-body simulator](https://github.com/magnushelliesen/n-body-simulator) that allows for simulating Newtonian gravity, at least approximately
 - [Monte Carlo-simulator](https://github.com/magnushelliesen/monte-carlo-simulator) that allows for joint simulation of time series that co-vary
-- [Mandelbrot set calculator](https://github.com/magnushelliesen/mandelbrot-calculator) that integrates Rust and Python using Maturin to let Rust do the heavy lifting 
+- [Mandelbrot set-calculator](https://github.com/magnushelliesen/mandelbrot-calculator) that integrates Rust and Python using Maturin to let Rust do the heavy lifting 
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/magge1984) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/magnus-helliesen)
