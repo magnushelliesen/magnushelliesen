@@ -14,17 +14,17 @@ I mostly use Python, but I'm also looking into learing one or two compiled langu
 > [!NOTE]  
 > Everything committed to repos on my private GitHub account is developed _**in my own time**_. Everything I do at work is committed to repos belonging to that organization's account, some of which are public, but most of which are private.
 
-### 🚀 Projects:
+### 🚀 Projects
 - [Streamlit app](https://github.com/magnushelliesen/handwritten-digit-recognizer-app) that uses a pre-trained instance of a home written neural network to recognize handwritten digits on the fly
 - [Neural network](https://github.com/magnushelliesen/neural-network) written from first principles, using linear algebra-functionality from NumPy
 - [Mandelbrot set-calculator](https://github.com/magnushelliesen/mandelbrot-set-calculator) that integrates Rust and Python using Maturin to let Rust do the heavy lifting 
 - [N body-simulator](https://github.com/magnushelliesen/n-body-simulator) that allows for simulating Newtonian gravity, at least approximately
 - [Monte Carlo-simulator](https://github.com/magnushelliesen/monte-carlo-simulator) that allows for joint simulation of time series that co-vary
 
-### 🌐 Socials:
+### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/magge1984) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/magnus-helliesen)
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 <div >
 	<code><a href="https://restfulapi.net/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></a></code>
 	<code><a href="https://git-scm.com/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></a></code>
@@ -66,7 +66,7 @@ I mostly use Python, but I'm also looking into learing one or two compiled langu
 	<code><a href="https://isocpp.org/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></a></code>
 </div>
 
-### 📊 GitHub Stats (made using [github-readme-stats](https://github.com/stats-organization/github-readme-stats)):
+### 📊 GitHub Stats (made using [github-readme-stats](https://github.com/stats-organization/github-readme-stats))
 <p align="left">
   <img src="./profile/stats.svg" height="165"/>
   <img src="./profile/top-langs.svg" height="165"/>
