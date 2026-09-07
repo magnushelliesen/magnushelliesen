@@ -68,7 +68,7 @@ I mostly use Python, but I'm also looking into learing one or two compiled langu
 
 ### 📊 GitHub Stats (made using [github-readme-stats](https://github.com/stats-organization/github-readme-stats))
 <p align="left">
-  <img src="./profile/stats.svg" height="165"/>
+  <!-- <img src="./profile/stats.svg" height="165"/> !-->
   <img src="./profile/top-langs.svg" height="165"/>
 </p>
 
