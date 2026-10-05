@@ -44,8 +44,8 @@ I mostly use Python, but I'm also looking into learing one or two compiled langu
 	<code><a href="https://scipy.org/"><img width="35" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy" title="SciPy"/></a></code>
  	<code><a href="https://scikit-learn.org/stable/"><img width="35" src="https://avatars.githubusercontent.com/u/17349883?s=200&v=4" alt="scikit-learn" title="scikit-learn"/></a></code>
 	<code><a href="https://docs.pydantic.dev/latest/"><img width="35" src="https://pydantic.dev/favicon/favicon.ico" alt="Pydantic" title="Pydantic"/></a></code>
-	<code><a href="https://docs.pydantic.dev/latest/concepts/ai_integration/"><img width="35" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/pydanticai-color.png" alt="Pydantic AI" title="Pydantic AI"/></a></code>
-	<code><a href="https://www.langchain.com/"><img width="35" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/langchain-color.png" alt="LangChain" title="LangChain"/></a></code>
+	<code><a href="https://docs.pydantic.dev/latest/concepts/ai_integration/"><img width="35" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pydanticai/default.svg" alt="Pydantic AI" title="Pydantic AI"/></a></code>
+	<code><a href="https://www.langchain.com/"><img width="35" src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg" alt="LangChain" title="LangChain"/></a></code>
 	<code><a href="http://www.duckdb.org/"><img width="35" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/duckdb-umoj5fxu8w5pzg7d0js9.png/duckdb-kz05ottxukbgvmp8c3bpi.png?_a=DAJFJtWIZAAC" alt="DuckDB" title="DuckDB"/></a></code>
 	<code><a href="https://www.gnu.org/software/bash/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></a></code>
 	<code><a href="https://www.docker.com/"><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></a></code>
